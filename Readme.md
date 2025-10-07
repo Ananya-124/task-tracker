@@ -1,3 +1,0 @@
-﻿# Task Tracker Api
-
-this file is in auth branch
